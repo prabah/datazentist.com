@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+<font id="acamar" horiz-adv-x="1000">
+<font-face font-family="acamar" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="acamar-1" unicode="&#x41;" d="M123 368c-5-11-5-25 0-36 2-6 6-11 10-16l286-285c18-19 48-19 67 0s19 48 0 67l-204 204h551c27 0 48 22 48 48s-21 48-48 48h-551l204 204c19 19 19 49 0 67-9 10-21 14-34 14s-24-4-33-14l-286-285c-4-5-8-10-10-16z" horiz-adv-x="1000" />
+
+<glyph glyph-name="acamar-3" unicode="&#x42;" d="M71 78c-12 0-24 5-33 14-19 19-19 49 0 68l462 462 462-462c19-19 19-49 0-68s-48-18-67 0l-395 395-395-395c-9-9-21-14-34-14z" horiz-adv-x="1000" />
+
+<glyph glyph-name="acamar-4" unicode="&#x43;" d="M262 88h476v-47h-476v47z m445 327c-9 9-24 9-33 0l-150-150v371c0 13-11 24-24 24s-24-11-24-24v-371l-150 150c-9 9-24 9-33 0s-10-25 0-34l190-191c5-4 11-7 17-7s12 3 17 7l190 191c10 9 10 24 0 34z" horiz-adv-x="1000" />
+
+<glyph glyph-name="acamar-5" unicode="&#x44;" d="M500 755c223 0 405-182 405-405s-182-405-405-405c-223 0-405 182-405 405s182 405 405 405z m0 47c-250 0-452-202-452-452 0-250 202-452 452-452s452 202 452 452c0 250-202 452-452 452v0z m240-428h-216v216c0 12-11 22-24 22s-24-10-24-22v-216h-216c-12 0-22-11-22-24s10-24 22-24h216v-216c0-12 11-22 24-22s24 10 24 22v216h216c12 0 22 11 22 24s-10 24-22 24z" horiz-adv-x="1000" />
+
+<glyph glyph-name="acamar-2" unicode="&#x45;" d="M877 332c5 11 5 25 0 36-2 6-6 11-10 16l-286 285c-18 19-48 19-67 0-19-18-19-48 0-67l204-204h-551c-27 0-48-22-48-48s21-48 48-48h551l-204-204c-19-19-19-49 0-67 9-10 22-14 34-14s24 4 33 14l286 285c4 5 8 10 10 16z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
